@@ -1,5 +1,5 @@
 # Online Restaurant Website:
-This repository contains our first semester university project, an Online Restaurantwebsite based on Cheezious theme.
+This repository contains our first semester university project, an Online Restaurant website based on Cheezious theme.
 The website demonstrate food presentation and basic online ordering concept using HTML and CSS only.
 ## Project Details:
 - Type: University Final Project (1st semester)
